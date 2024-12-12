@@ -17,5 +17,9 @@ let package = Package(
             name: "particlefall",
             path: "particlefall.xcframework"
         ),
+        .target(
+            name: "YourLibraryName",
+            dependencies: []
+        ),
     ]
 )
