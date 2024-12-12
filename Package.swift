@@ -18,7 +18,7 @@ let package = Package(
             path: "particlefall.xcframework"
         ),
         .target(
-            name: "particlefall",
+            name: "particlefall2",
             dependencies: []
         ),
     ]
