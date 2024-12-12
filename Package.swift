@@ -15,7 +15,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "particlefall",
-            path: "./particlefall.xcframework"
+            path: "particlefall.xcframework"
         ),
     ]
 )
